@@ -1,3 +1,3 @@
 # Instagram-Video-Downloader
-Download Instagram reels, photo and video downloader by latestgbapps.com
+Download Instagram reels, photo and video downloader by [latestgbapps.com](https://latestgbapps.com/)
 Just upload this plugin on wordpress and start downloading instagram videos
